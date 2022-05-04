@@ -1,6 +1,6 @@
 package cursojava.executavel;
 
-public class PrimeiroClasseJava {
+public class PrimeiraClasseJava {
 
 	/*Main é um metodo auto executavel em Java*/
 	public static void main(String[] args) {
